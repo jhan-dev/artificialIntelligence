@@ -27,7 +27,7 @@ General AI doesn’t exist yet. But when it does, it will be a form of “whole 
 ![Alt text](images/ai.JPG)
 
 - Artificial Intelligence
-Artificial intelligence describes machines that exercise capabilities usually associated with human intelligence. Current research in AI focuses on learning, reasoning, problem solving, perceiving, and understanding human language. You’ll learn more in the next course about how advances in AI will help make us all smarter, communicate, solve problems for society, and change the way we work.
+Artificial intelligence describes machines that exercise capabilities usually associated with human intelligence. Current research in AI focuses on learning, reasoning, problem solving, perceiving, and understanding human language.
 
 - Machine Learning
 Machine learning, or ML, uses algorithms to learn from data. Given an input of data, ML can perform statistical analysis to determine an output. As with every kind of computing, the more data the machine is given (assuming that this data is valid), the more accurate is its output. ML uses human-like capabilities such as analysis, self-training, observation, and experience to learn without being explicitly programmed!
@@ -93,6 +93,43 @@ Skills to help getting into AI roles.
 - Probability and statistics
 - Programming languages such as Python, C++, R, or Java
 
+
+### Common Terms
+- Algorithms
+Algorithms are mathematical instructions written by data scientists that tell the machine how to go about finding solutions to a problem. When a small selection of data (called training data) is run through an algorithm repeatedly, each time tweaked by a data scientist until its results are reliably accurate, the result is a model that the machine can use for additional learning by itself.
+
+- Chatbot
+A chatbot is a computer program designed to simulate conversation with human users, especially over the internet. It is an assistant that communicates with us through text messages or voice and integrates as a virtual companion into websites, applications, or instant messengers.
+
+- Data
+Data fuels AI. It allows AI systems to reveal patterns, trends, and associations with confidence. Some data is structured, which means it’s been organized into a format that computers can easily read and analyze, such as a database or an Excel file. Other data is unstructured, like tweets, PDFs, and video files.
+
+- Deep learning
+Deep learning (DL) is a group of neural networks (which are, in turn, groups of machine learning models). Deep learning can find patterns in complex data structures like images, video, and sound. Many of its models need no explicit training to find a solution, making them excellent for solving problems too big and complex for humans to engineer. Deep learning has been used to train self-driving vehicles, detect fraud, and even make “Deepfake” videos of popular celebrities.
+
+- Machine learning
+Machine learning (ML) is the engine of an AI system. It describes machines that learn without explicit instructions on how to perform tasks. It often depends on models: trained artifacts that guide machines when interpreting new data. Models represent patterns of data and help a machine learning system make predictions without being told how to do so.
+
+- Natural language processing
+Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken. NLP can train computers to process large amounts of human text, like newspapers or conversations, comprehending the intent and meaning of that data. With NLP, a machine can then reply to humans with nuance and understanding. A common example of NLP is a customer service chatbot.
+
+- Neural networks
+Neural networks are groups of machine learning models. They simulate the human brain’s densely interconnected brain cells. They can learn things, recognize patterns, and make decisions without having to be explicitly programmed. Neural networks are capable of finding patterns within data that’s so complex that no human could program its analysis.
+
+- Reinforcement learning
+Reinforcement learning is a type of machine learning model that doesn’t give the machine any data at all, labeled or unlabeled. Instead, the machine tries different actions and receives reward signals (like cookies for a dog!) when it makes correct moves. In this way the system is trained solve a problem, with no human work required.
+
+- Speech recognition
+Speech recognition is technology that can recognize spoken words, which can then be converted to text or carry out a spoken command. A subset of speech recognition is voice recognition, which is the technology for identifying a person based on their voice.
+
+- Supervised learning
+Supervised learning is a type of machine learning model that provides the machine with a set of highly accurate data that’s been labeled by a human. The machine uses this model to recognize related things in untrained data sets.
+
+- Unsupervised learning
+Unsupervised learning is a type of machine learning model that doesn’t give the AI any labeled data. Instead it gives the AI unlabeled data, and the AI suggests various ways to cluster and organize it. This is valuable when the data is so large or complex that humans can’t identify its patterns themselves.
+
+- Visual recognition
+Visual recognition, also known as computer vision, is an AI subfield focused on training computers to understand and interpret pictures and video. Visual recognition models learn how to identify objects, people, or individual attributes in an image. For example, a model could help evaluate automobile accidents, identify the type of vehicle involved and its damage, and then estimate its cost to repair.
 
 
 
