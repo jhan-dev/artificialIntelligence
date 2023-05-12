@@ -132,4 +132,54 @@ Visual recognition
 - Visual recognition, also known as computer vision, is an AI subfield focused on training computers to understand and interpret pictures and video. Visual recognition models learn how to identify objects, people, or individual attributes in an image. For example, a model could help evaluate automobile accidents, identify the type of vehicle involved and its damage, and then estimate its cost to repair.
 
 
+## Artificial Intelligence in Practice
 
+### AI can communicate: Speaking naturally
+AI understands human language
+- In any language, there can be hundreds of ways to express a simple idea. Our brains have known since childhood how to process sentences and make sense of them. But computers can’t do that using traditional programming methods. It’s impossible for a programmer to cook up the exact wording for every possible sentence someone might say to a computer! Instead, AI scientists have helped computers understand language using a branch of computer science called natural language processing, or NLP.
+
+- NLP powers chatbots, the computerized systems that provide basic customer service. You type or speak a question using a simple, ordinary sentence. The chatbot usually understands your question and responds accordingly.
+
+- You’ll find an advanced application of NLP in the virtual assistants provided by smart phones and personal computing devices. Amazon’s Alexa, Microsoft’s Cortana, and Apple’s Siri can understand more complex questions.
+
+- As NLP grows more sophisticated, you’ll interact with advanced virtual assistants like the fictional one demonstrated in this video.
+
+
+### AI can help you do things: Driving and buying
+AI can perform difficult tasks on your behalf
+- AI can perform complex work once thought to be possible only for humans. Consider self-driving cars. Using cameras, radar, lidar, and GPS, they receive all sorts of inputs—road surface, speed limit, lane lines, traffic, pedestrians, light conditions, road signs, and more, all changing at highway speed! Their AI swiftly integrates these inputs and makes decisions to safely and accurately navigate the road.
+
+AI can help you discover things
+- AI can also automate searches, marketing, and advertising. By automatically analyzing data about your behavior and preferences, AI can make predictions or recommendations that are specific to you, or that reflect people similar to you.
+
+- Amazon, for example, remembers books you’ve bought and suggests others that might also please you. LinkedIn recommends jobs that suit your profile. Netflix recommends programs similar to those you have already enjoyed. Right now, these recommendations have mixed value. If you buy socks on Amazon, it will recommend more socks to you whether you need them or not. But this kind of AI is advancing rapidly in its ability to personalize what it offers you.
+
+- Another great example, one that isn’t about sales but about helping people, is IBM Watson for Oncology. It reads every word and test result for an individual cancer patient. At the same time, it stays abreast of more cancer research publications than could possibly be read by a human. Combining what it has learned about the patient with what it has learned from research, it makes treatment recommendations tailored precisely to the patient.
+
+
+### AI can solve problems: Saving lives
+AI can help humanity
+- In the flood-prone region of Patna in northern India, the waters were rising. But thanks in part to an artificial intelligence system, residents of the region received early warnings on their phones. A flood forecasting system that Google developed for India’s Central Water Commission is making a difference! But it can do more than forecast high waters. It’s also smart enough to avoid false alarms.
+
+- Sella Nevo, the head of the flood forecasting unit and a software engineering manager at Google, notes that “For our high-risk alerts, we had less than 10 percent false positives [down to regions measuring 64 by 64 metres] ... That’s highly accurate.” The trick is training the system’s accuracy so that unnecessary evacuations are avoided and trust can be built for the alert system.
+
+But good solutions require good data
+- If you or your friends enjoy computer programming, you’ve probably heard the acronym GIGO. It means “garbage in, garbage out.” When you work with bad data you’ll get bad results.
+
+- GIGO also applies to AI. The most brilliant system can’t solve problems without high-quality data. It’s not enough to design the system well. You must also give it the ability to spot false information and to clean information that contains errors.
+
+
+### AI can play games: Not just for fun!
+Gaming applications for AI
+- Some of the most famous applications of artificial intelligence have emerged from the world of games. Let’s find out how.
+
+- It begins with programs designed to win difficult games. For years, the world’s greatest chess masters have tested their skills against computer opponents: from IBM’s Deep Blue to the current champion computer, Stockfish 9. This kind of advanced but narrow AI can’t pilot a self-driving car, carry on a conversation, or provide accurate flood warnings, but it’s undefeated against the world’s greatest human chess players.
+
+- You’ve already read how natural language processing helped IBM Watson win the Jeopardy! championship (along with a huge set of data culled from Wikipedia and other sources).
+
+- Some folks think that gaming is a fun but trivial way to use AI. We heard this, for example, when IBM’s Jeopardy! win was first aired. But lessons learned from that adventure helped IBM tackle enormous problems like global transportation and cancer treatment. Game systems provide complicated, fast-moving challenges whose solutions lead us to important new AI applications.
+
+
+### AI can extend human expertise: Making us smarter
+Intelligence augmentation
+- There’s another way to look at artificial intelligence: instead of making decisions for us, we can design it to help us make better decisions. We call this intelligence augmentation. It refers to the development of computerized tools that complement human thinking.
